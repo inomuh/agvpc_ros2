@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<robot_bilgisi>
+    <robot_id>3</robot_id>
+    <surum>
+        <Mekanik>Mekanik Bilgiler 3</Mekanik>
+        <Elektrik_elektronik>Elektrik Elektronik Bilgiler 3</Elektrik_elektronik>
+        <Yazilim>Yazilim Bilgileri 3</Yazilim>
+    </surum>
+    <tarih>
+	<fabrika_giris_tarihi>2020.04.24 Cuma</fabrika_giris_tarihi>
+	<uretim_tarihi>2019.04.16 Sali</uretim_tarihi>
+    </tarih>
+</robot_bilgisi>
